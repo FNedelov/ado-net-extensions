@@ -1,2 +1,8 @@
 # ado-net-extensions
-ADO.NET extensions for generic MySQL, MSSQL database queries
+ADO.NET extension methods for generic MySQL, MSSQL database queries. Check ExtensionCaller projects how to use them.
+
+Generic sync and async extension methods for MySQL, MSSQL. 
+Supported versions:
+  .NET Framework 4.5.2
+  .NET Core 3.1
+  .NET Core 6+
