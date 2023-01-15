@@ -3,6 +3,6 @@ ADO.NET extension methods for generic MySQL, MSSQL database queries. Check Exten
 
 Generic sync and async extension methods for MySQL, MSSQL. 
 Supported versions:
-  .NET Framework 4.5.2
-  .NET Core 3.1
-  .NET Core 6+
+- .NET Framework 4.8
+- .NET Core 3.1
+- .NET Core 6+
